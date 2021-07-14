@@ -1,5 +1,3 @@
-build/
-.DS_Store
 *.zip
 *.tar
 *.tar.gz
